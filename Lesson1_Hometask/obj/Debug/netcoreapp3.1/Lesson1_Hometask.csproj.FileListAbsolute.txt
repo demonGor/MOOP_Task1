@@ -1,0 +1,11 @@
+C:\Users\dimaz\source\repos\Lesson1_Hometask\Lesson1_Hometask\bin\Debug\netcoreapp3.1\Lesson1_Hometask.exe
+C:\Users\dimaz\source\repos\Lesson1_Hometask\Lesson1_Hometask\bin\Debug\netcoreapp3.1\Lesson1_Hometask.deps.json
+C:\Users\dimaz\source\repos\Lesson1_Hometask\Lesson1_Hometask\bin\Debug\netcoreapp3.1\Lesson1_Hometask.runtimeconfig.json
+C:\Users\dimaz\source\repos\Lesson1_Hometask\Lesson1_Hometask\bin\Debug\netcoreapp3.1\Lesson1_Hometask.runtimeconfig.dev.json
+C:\Users\dimaz\source\repos\Lesson1_Hometask\Lesson1_Hometask\bin\Debug\netcoreapp3.1\Lesson1_Hometask.dll
+C:\Users\dimaz\source\repos\Lesson1_Hometask\Lesson1_Hometask\bin\Debug\netcoreapp3.1\Lesson1_Hometask.pdb
+C:\Users\dimaz\source\repos\Lesson1_Hometask\Lesson1_Hometask\obj\Debug\netcoreapp3.1\Lesson1_Hometask.csprojAssemblyReference.cache
+C:\Users\dimaz\source\repos\Lesson1_Hometask\Lesson1_Hometask\obj\Debug\netcoreapp3.1\Lesson1_Hometask.AssemblyInfoInputs.cache
+C:\Users\dimaz\source\repos\Lesson1_Hometask\Lesson1_Hometask\obj\Debug\netcoreapp3.1\Lesson1_Hometask.AssemblyInfo.cs
+C:\Users\dimaz\source\repos\Lesson1_Hometask\Lesson1_Hometask\obj\Debug\netcoreapp3.1\Lesson1_Hometask.dll
+C:\Users\dimaz\source\repos\Lesson1_Hometask\Lesson1_Hometask\obj\Debug\netcoreapp3.1\Lesson1_Hometask.pdb
