@@ -41,10 +41,13 @@ namespace Lesson1_Hometask
             {
                 ShowGameHistory(game);
             }
+
+            Console.WriteLine();
         }
 
         private void ShowGameHistory(GameStateModel game)
         {
+            Console.WriteLine();
             Console.WriteLine("History");
             foreach (var state in game.History)
                 Console.WriteLine($"Left bound:{state.LeftBound}    Right bound:{state.RightBound}    SpecifiedNumber:{state.SpecifiedNumber}");
