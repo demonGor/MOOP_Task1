@@ -97,7 +97,8 @@ namespace Lesson1_Hometask
             catch(Exception)
             {
                 Console.WriteLine("Invalid input. Repeat please");
-                ReadNumber();
+                number = ReadNumber();
+               
             }
             
             return number;
