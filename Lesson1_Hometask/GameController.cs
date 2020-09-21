@@ -59,8 +59,8 @@ namespace Lesson1_Hometask
         {
             var randomizer = new Random();
             int left = 0;
-            int right = 10;
-            var unknownNumber = randomizer.Next(0, 10);
+            int right = 100;
+            var unknownNumber = randomizer.Next(0, 100);
 
             var game = new GameStateModel
             {
